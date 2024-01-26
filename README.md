@@ -6,12 +6,11 @@
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocssilva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocssilva&layout=compact&langs_count=16&theme=blue-green"/>
+  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocssilva&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
 
 <div align="center"> 
   <div style="display: inline_block">
-    <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias em desenvolvimento</h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
