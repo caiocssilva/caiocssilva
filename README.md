@@ -5,10 +5,12 @@
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/19933005910)
 
 <div>
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=caiocssilva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocssilva&layout=compact&langs_count=16&theme=blue-green"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=caiocssilva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocssilva&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
 
+<br>
+<br>
 <br>
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/caiocesarss/count.svg" /></p>
