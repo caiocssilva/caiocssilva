@@ -18,5 +18,3 @@
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="typescript-icon" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
 </div>
-
-@media
