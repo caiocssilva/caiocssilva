@@ -8,7 +8,10 @@
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=caiocssilva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocssilva&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
-    
+
+<br><p align="center"><b>Visitors Count</b></p>  
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/caiocesarss/count.svg" /></p>
+
 <div align="center"> 
   <div style="display: inline_block">
     <h1>Tecnologias em desenvolvimento</h1>
