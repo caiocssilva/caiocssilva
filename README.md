@@ -9,9 +9,12 @@
   <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocssilva&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
 
+<div align="center">
+  <h3>Tecnologias em desenvolvimento</h3>
+</div>
+    
 <div align="center"> 
   <div style="display: inline_block">
-    <h1>Tecnologias em desenvolvimento</h1>
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
