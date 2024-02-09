@@ -9,6 +9,7 @@
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocssilva&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
 
+<br>
 <br><p align="center"><b>Visitors Count</b></p>  
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/caiocesarss/count.svg" /></p>
 
