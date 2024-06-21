@@ -13,7 +13,7 @@
 </div>
 <br/>
 
-<div align="left">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=caiocssilva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocssilva&layout=compact&langs_count=16&theme=blue-green"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiocssilva&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiocssilva&layout=compact&langs_count=16&theme=blue-green"/>
 </div>
